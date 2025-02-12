@@ -48,9 +48,9 @@ python sudoku_gui.py
 
 ## Screenshots
 
-![Sudoku Solver GUI]![image](https://github.com/user-attachments/assets/3c2dd466-9891-4d7e-9d96-be5cb2de5774)
-)  
-![Solution]![image](https://github.com/user-attachments/assets/075c22c6-0d15-44be-8a33-17c6a09de2f6)
+![Puzzle](https://github.com/user-attachments/assets/2209684d-c054-4124-a9b7-38ab1723141f)
+![Solution](https://github.com/user-attachments/assets/ab680ff2-a11d-4c99-abe2-b039cf9de65e)
+
 
 *Example of the 9x9 Sudoku grid in the solver.*
 
