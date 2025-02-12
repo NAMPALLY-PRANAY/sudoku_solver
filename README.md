@@ -25,7 +25,7 @@ This project is a Sudoku solver implemented using Python's `tkinter` library for
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/sudoku-solver-gui.git
+git clone [https://github.com//sudoku-solver-gui.git](https://github.com/NAMPALLY-PRANAY/sudoku_solver)
 ```
 
 2. Navigate to the project directory:
@@ -57,10 +57,5 @@ python sudoku_gui.py
 Algorithm used: MINIMAX ALGORITHM
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Make sure to replace the example GitHub URL (`https://github.com/yourusername/sudoku-solver-gui.git`) with your actual repository URL.
 
-You can also update the "Screenshots" section with a real screenshot of your application by adding the image to the `images` folder in your repository.
-
-Let me know if you need more help with this!
