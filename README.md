@@ -25,7 +25,7 @@ This project is a Sudoku solver implemented using Python's `tkinter` library for
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com//sudoku-solver-gui.git](https://github.com/NAMPALLY-PRANAY/sudoku_solver)
+git clone https://github.com//sudoku-solver-gui.git
 ```
 
 2. Navigate to the project directory:
